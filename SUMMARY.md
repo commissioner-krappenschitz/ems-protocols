@@ -22,7 +22,7 @@
 * [Trauma Protocols](contents/trauma-protocols/README.md)
   * [3.0 - Code Red (Trauma Code)](contents/trauma-protocols/3.0-code-red-trauma-code.md)
   * [3.1 - Burns](contents/trauma-protocols/3.1-burns.md)
-  * [Page 5](contents/trauma-protocols/page-5.md)
+  * [3.2 - Drowning/Submersion Injuries](contents/trauma-protocols/3.2-drowning-submersion-injuries.md)
   * [Page 4](contents/trauma-protocols/page-4.md)
   * [Page 3](contents/trauma-protocols/page-3.md)
   * [Page 2](contents/trauma-protocols/page-2.md)
