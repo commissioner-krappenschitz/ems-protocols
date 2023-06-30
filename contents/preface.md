@@ -1,0 +1,3 @@
+# Preface
+
+This book has been created to be a reference and a knowledge base for all emergency medical services and hospital personnel within Eastdale City. These are the basic standing orders for the level of Hospital Doctors, Nurses, Medical Technicians, Radiologists, EMT-Basic, Paramedics, and Critical Care Paramedics. There will be some extended care guidelines present in one of the appendixes that are for Critical Care Paramedics. Because not every situation can be written or have a protocol for it, online medical control or your active supervisor may be a resource for medical decision making.
